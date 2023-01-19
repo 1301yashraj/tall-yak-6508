@@ -46,7 +46,7 @@
 
 ## Installation & Run
 
-* Before running the API server, you should update the database config inside the [application.properties](https://github.com/nvFARHAN/cowin.gov.in/blob/master/src/main/resources/application.properties) file. 
+* Before running the API server, you should update the database config inside the [application.properties]file. 
 * Update the port number, username and password as per your local database config.
 
 ```
@@ -126,7 +126,7 @@
 ```
 
 ## Video Explainer of flow control
- <a href="https://drive.google.com/file/d/1ReDNdgIxdSNcn7WsV2ysIHeXEnkgZErw/view?usp=sharing">**Video Drive Link** </a>
+ <a href="https://drive.google.com/file/d/1kNVhGCzPQu45vE-QH5ap-L0qmlTG6NxF/view">**Video Drive Link** </a>
  
  
 ### E-R Diagram Of Covid-19 Application
